@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JuandaSilvaa/JuandaSilvaa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JuandaSilvaa/KevinProgramador2/output/snake.svg" alt="Snake animation" />
 
 ###
