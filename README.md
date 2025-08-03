@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/KevinProgramador2/KevinProgramador2/output/snake.svg" alt="Snake animation" />
 
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80" height="80" align="right">
+
 ###
