@@ -1,4 +1,4 @@
-👋 E aí! Eu sou o Kevin 
+**👋 Bem vindos (a) ao meu mundo de práticas e experiências **
 <!--
 **KevinProgramador2/KevinProgramador2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
