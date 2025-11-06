@@ -1,22 +1,58 @@
-👋 **Bem vindos (a) ao meu mundo de práticas e experiências**
-<!--
-**KevinProgramador2/KevinProgramador2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, eu sou o Kevin!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Desenvolvedor apaixonado por transformar ideias em código.</em><br>
+  Sempre em busca de escrever algo melhor do que ontem.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-###
+### 🚀 Tecnologias que uso diariamente:
 
-<br clear="both">
+<div align="center">
+
+  <!-- Animação suave nas logos -->
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs" />
+  
+</div>
+
+---
+
+### 🧠 Sobre mim:
+- 💻 Foco em **desenvolvimento web moderno** com **React** e **Node.js**  
+- ⚙️ Apaixonado por **automação** e **back-end com Python**  
+- 🎯 Em constante aprendizado e evolução  
+- 🌎 Busco criar **experiências reais**, não apenas código bonito  
+
+---
+
+### 📈 Estatísticas do GitHub:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinProgramador2&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinProgramador2&layout=compact&theme=radical"/>
+</div>
+
+---
+
+### ✨ Um toque de estilo:
+<div align="center">
+  <img src="https://github.com/kevinProgramador2/kevinProgramador2/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+### 📫 Vamos conversar?
+<p align="center">
+  <a href="https://github.com/KevinProgramador2"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"O código é a tinta das ideias que escolhi pintar."</i>
+</p>
+
 
 <img src="https://raw.githubusercontent.com/KevinProgramador2/KevinProgramador2/output/snake.svg" alt="Snake animation" />
 
