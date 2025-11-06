@@ -34,10 +34,7 @@
 
 ---
 
-### ✨ Um toque de estilo:
-<div align="center">
-  <img src="https://github.com/kevinProgramador2/kevinProgramador2/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+
 
 ---
 
