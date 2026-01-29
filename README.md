@@ -28,8 +28,9 @@
 
 ### 📈 Estatísticas do GitHub:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinProgramador2&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinProgramador2&layout=compact&theme=radical"/>
+  
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=KevinProgramador2&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinProgramador2&layout=compact&theme=radical"/>
 </div>
 
 ---
