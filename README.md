@@ -12,7 +12,7 @@
 <div align="center">
 
   <!-- Animação suave nas logos -->
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,java" />
   
 </div>
 
