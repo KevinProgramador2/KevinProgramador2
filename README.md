@@ -19,11 +19,10 @@
 ---
 
 ### 🧠 Sobre mim:
-- 💻 Foco em **desenvolvimento web moderno** com **React** e **Node.js**  
-- ⚙️ Apaixonado por **automação** e **back-end com Python**  
+- 💻 Foco em **desenvolvimento web moderno** com **React** e **Node.js**    
 - 🎯 Em constante aprendizado e evolução  
 - 🌎 Busco criar **experiências reais**, não apenas código bonito  
-
+- 👨‍💻 Gosto de criar programas que ajudam a somar para a sociedade, e ajudar as pessoas que tem dúvidas sobre área.
 ---
 
 ### 📈 Estatísticas do GitHub:
