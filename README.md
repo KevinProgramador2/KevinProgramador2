@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Kevin!</h1>
+<h1 align="center">👋! <strong>Sejam bem vindos</strong> me chamo Kevin!</h1>
 
 <p align="center">
   <em>Desenvolvedor apaixonado por transformar ideias em código.</em><br>
@@ -7,18 +7,24 @@
 
 ---
 
-### 🚀 Tecnologias que uso diariamente:
+
 
 <div align="center">
+  <h2>🚀 Tecnologias que uso:</h2>
 
-  <!-- Animação suave nas logos -->
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,postman,postgres,git" />
   
 </div>
 
----
+### Ferramentas de designer
+<div align="<center">
+  <img src="https://skillicons.dev/icons?i=figma,"/>
+</div>
 
-### 🧠 Sobre mim:
+<hr>
+
+
+## 🧠 Sobre mim:
 - 💻 Foco em **desenvolvimento web moderno** com **React** e **Node.js**    
 - 🎯 Em constante aprendizado e evolução  
 - 🌎 Busco criar **experiências reais**, não apenas código bonito  
@@ -26,7 +32,11 @@
 ---
 
 ### 📈 Estatísticas do GitHub:
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinProgramador2&show_icons=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinProgramador2&show_icons=true&theme=dracula" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinProgramador2&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula" width="36.4%" alt="Top Languages" />
+</p>
 
 
 ---
@@ -38,6 +48,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinrezende"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
 </p>
 
 ---
