@@ -1,17 +1,21 @@
-<h1 align="center">👋 Welcome! My name is Kevin 🚀</h1>
+<h1 align="center"> HI!👋 I'm Kevin 🚀</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong><br>
-  Transformando ideias em código todos os dias 💻
+  <strong>Full Stack Developer</strong><br>
+  Turning ideas into code every day 💻
+</p>
+
+<p align="center"> 
+Web developer focused on modern and responsive websites
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&color=FF00FF&lines=Bem-vindo+ao+meu+GitHub!;Full+Stack+Developer;Sempre+evoluindo+🚀;Criando+projetos+reais" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=500&color=FF00FF&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+improving+🚀;Building+real+projects" />
 </p>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,postgres,git" />
@@ -19,7 +23,7 @@
 
 ---
 
-## 🎨 Ferramentas
+## 🎨 Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
@@ -27,16 +31,16 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 About me
 
-- 💻 Focado em desenvolvimento **Full Stack**
-- ⚡ Sempre buscando evoluir e aprender mais
-- 🎯 Criando projetos com **propósito real**
-- 🤝 Gosto de ajudar quem está começando
+- 💻 Focused on **Full Stack development**
+- ⚡ Always learning and improving
+- 🎯 Building projects with **real purpose**
+- 🤝 I enjoy helping people who are starting out
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p align="center">
   <img 
@@ -51,7 +55,7 @@
 
 ---
 
-## 🔥 Contribuições
+## 🔥 Contributions
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KevinProgramador2&theme=dracula" />
@@ -59,7 +63,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinrezende">
@@ -69,7 +73,7 @@
 
 ---
 
-## 🐍 Minha jornada
+## 🐍 My Journey
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinProgramador2/KevinProgramador2/output/snake.svg" />
@@ -78,5 +82,5 @@
 ---
 
 <p align="center">
-  <i>"O código é a tinta das ideias que escolhi pintar."</i>
+  <i>"Code is the paint I use to bring ideas to life."</i>
 </p>
