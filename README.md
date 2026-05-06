@@ -40,7 +40,9 @@ Web developer focused on modern and responsive websites
 
 ---
 
-## 📊 Statistics
+<h2  align="center">
+   📊 Statistics
+</h2>
 
 <p align="center">
   <img 
@@ -54,11 +56,14 @@ Web developer focused on modern and responsive websites
 </p>
 
 ---
+  
+<h2 align="center"> 🔥 Contributions</h2>
 
-## 🔥 Contributions
+
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinProgramador2&theme=dracula" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KevinProgramador2&theme=onedark" alt="GitHub Streak" /> 
+    </a>
 </p>
 
 ---
