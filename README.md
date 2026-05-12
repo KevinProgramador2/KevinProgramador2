@@ -89,3 +89,8 @@ Web developer focused on modern and responsive websites
 <p align="center">
   <i>"Code is the paint I use to bring ideas to life."</i>
 </p>
+
+<p align="center">
+  <img width="498" height="284" alt="DeadpoolMovieGIF" src="https://github.com/user-attachments/assets/a60582ae-397d-4930-be12-4d0618c0be1d" />
+</p>
+
