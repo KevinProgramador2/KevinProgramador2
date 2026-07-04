@@ -18,7 +18,7 @@ Web developer focused on modern and responsive websites
 ## 🚀 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,nextjs,vue,typescript,bash,docker,spring" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ Web developer focused on modern and responsive websites
 ## 🎨 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma,idea,vscode,postman,postgres,supabase,vite,git" />
 </p>
 
 ---
