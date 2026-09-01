@@ -68,13 +68,14 @@ Web developer focused on modern and responsive websites
 
 ---
 
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kevinrezende">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <h2>🌐 Connect with me</h2>
+  <a href="mailto:kevinrezende.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+</div>
+
+
 
 ---
 
