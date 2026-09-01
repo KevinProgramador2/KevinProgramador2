@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"> 
-Web developer focused on modern and responsive websites
+Web developer focused on modern and responsive websites and websites security
 </p>
 
 <p align="center">
@@ -59,8 +59,6 @@ Web developer focused on modern and responsive websites
   
 <h2 align="center"> 🔥 Contributions</h2>
 
-
-
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KevinProgramador2&theme=onedark" alt="GitHub Streak" /> 
     </a>
@@ -68,14 +66,14 @@ Web developer focused on modern and responsive websites
 
 ---
 
-<div align="center">
-  <h2>🌐 Connect with me</h2>
-  <a href="mailto:kevinrezende.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<h2 align="center"
+  >🌐 Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinrezende">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
-
-
+</p>
 
 ---
 
